@@ -1,0 +1,1 @@
+One of my first python programs. Started out as text bases, one game use python program. Later, I would like to give it simple text graphics and the ability to play several times, as well as keeping record different players and high scores.
